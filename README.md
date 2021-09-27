@@ -1,4 +1,2 @@
 # firstrepo
-gimana ini ya 
-ini menambah data di firstrepo saya semoga dapat diubah data ini
-
+ini adalah saya belajar git dan github
