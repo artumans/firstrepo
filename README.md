@@ -1,2 +1,3 @@
 # firstrepo
-cloning into "clone firstrepo"
+gimana ini ya 
+
